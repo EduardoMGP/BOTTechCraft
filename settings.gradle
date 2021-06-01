@@ -1,0 +1,4 @@
+rootProject.name = 'BOTTechCraft'
+include ':Bot'
+include ':BotApi'
+

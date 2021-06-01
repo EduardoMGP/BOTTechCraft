@@ -1,0 +1,67 @@
+br/com/techcraftbrasil/app/interfaces/ReactionsPrivate.java
+ br.com.techcraftbrasil.app.interfaces.ReactionsPrivate
+br/com/techcraftbrasil/app/bot/SendMessage.java
+ br.com.techcraftbrasil.app.bot.SendMessage
+ br.com.techcraftbrasil.app.bot.SendMessage$1
+ br.com.techcraftbrasil.app.bot.SendMessage$2
+ br.com.techcraftbrasil.app.bot.SendMessage$Exec
+br/com/techcraftbrasil/app/Main.java
+ br.com.techcraftbrasil.app.Main
+br/com/techcraftbrasil/app/interfaces/Events.java
+ br.com.techcraftbrasil.app.interfaces.Events
+br/com/techcraftbrasil/app/audio/PlayerManager.java
+ br.com.techcraftbrasil.app.audio.PlayerManager
+ br.com.techcraftbrasil.app.audio.PlayerManager$1
+br/com/techcraftbrasil/app/bot/commands/CommandPlay.java
+ br.com.techcraftbrasil.app.bot.commands.CommandPlay
+br/com/techcraftbrasil/app/bot/commands/CommandServerKey.java
+ br.com.techcraftbrasil.app.bot.commands.CommandServerKey
+br/com/techcraftbrasil/app/bot/commands/CommandJoin.java
+ br.com.techcraftbrasil.app.bot.commands.CommandJoin
+br/com/techcraftbrasil/app/interfaces/CommandsGuild.java
+ br.com.techcraftbrasil.app.interfaces.CommandsGuild
+br/com/techcraftbrasil/app/DBStorage.java
+ br.com.techcraftbrasil.app.DBStorage
+br/com/techcraftbrasil/app/bot/commands/CommandTicket.java
+ br.com.techcraftbrasil.app.bot.commands.CommandTicket
+br/com/techcraftbrasil/restapi/model/Result.java
+ br.com.techcraftbrasil.restapi.model.Result
+br/com/techcraftbrasil/app/bot/ConsoleColors.java
+ br.com.techcraftbrasil.app.bot.ConsoleColors
+br/com/techcraftbrasil/app/audio/GuildMusicManager.java
+ br.com.techcraftbrasil.app.audio.GuildMusicManager
+br/com/techcraftbrasil/app/interfaces/CommandsPrivate.java
+ br.com.techcraftbrasil.app.interfaces.CommandsPrivate
+br/com/techcraftbrasil/app/bot/commands/CommandSincronizar.java
+ br.com.techcraftbrasil.app.bot.commands.CommandSincronizar
+br/com/techcraftbrasil/app/bot/commands/CommandPublicar.java
+ br.com.techcraftbrasil.app.bot.commands.CommandPublicar
+br/com/techcraftbrasil/app/bot/events/PrivateReactionPublicar.java
+ br.com.techcraftbrasil.app.bot.events.PrivateReactionPublicar
+br/com/techcraftbrasil/app/bot/MineStat.java
+ br.com.techcraftbrasil.app.bot.MineStat
+ br.com.techcraftbrasil.app.bot.MineStat$1
+ br.com.techcraftbrasil.app.bot.MineStat$Request
+ br.com.techcraftbrasil.app.bot.MineStat$Retval
+br/com/techcraftbrasil/app/bot/commandsprivate/CommandHelp.java
+ br.com.techcraftbrasil.app.bot.commandsprivate.CommandHelp
+br/com/techcraftbrasil/app/audio/AudioPlayerSendHandler.java
+ br.com.techcraftbrasil.app.audio.AudioPlayerSendHandler
+br/com/techcraftbrasil/restapi/controller/DiscordSync.java
+ br.com.techcraftbrasil.restapi.controller.DiscordSync
+br/com/techcraftbrasil/app/audio/TrackScheduler.java
+ br.com.techcraftbrasil.app.audio.TrackScheduler
+br/com/techcraftbrasil/app/bot/Bot.java
+ br.com.techcraftbrasil.app.bot.Bot
+ br.com.techcraftbrasil.app.bot.Bot$1
+br/com/techcraftbrasil/app/bot/commands/CommandStatus.java
+ br.com.techcraftbrasil.app.bot.commands.CommandStatus
+br/com/techcraftbrasil/app/bot/commandsprivate/CommandDisable.java
+ br.com.techcraftbrasil.app.bot.commandsprivate.CommandDisable
+br/com/techcraftbrasil/restapi/RestAPI.java
+ br.com.techcraftbrasil.restapi.RestAPI
+ br.com.techcraftbrasil.restapi.RestAPI$1
+br/com/techcraftbrasil/restapi/controller/AutoRoleController.java
+ br.com.techcraftbrasil.restapi.controller.AutoRoleController
+br/com/techcraftbrasil/app/bot/commands/CommandHelp.java
+ br.com.techcraftbrasil.app.bot.commands.CommandHelp

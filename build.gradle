@@ -1,0 +1,33 @@
+subprojects {
+    repositories {
+        mavenLocal()
+        mavenCentral()
+        jcenter()
+        maven {
+            name 'm2-dv8tion'
+            url 'https://m2.dv8tion.net/releases'
+        }
+        maven {
+            url 'https://m2.dv8tion.net/releases'
+        }
+    }
+
+    apply plugin: 'java'
+    group 'br.com.techcraftbrasil'
+    version '1.0-SNAPSHOT'
+    compileJava.options.encoding = 'UTF-8'
+
+    dependencies {
+        compile fileTree(dir: "${project.rootDir}/libs", include: '*.jar')
+        compile 'junit:junit:4.12'
+        compile 'net.dv8tion:JDA:4.2.1_253'
+        compile group: 'mysql', name: 'mysql-connector-java', version: '5.1.13'
+        compile group: 'org.json', name: 'json', version: '20210307'
+        compile group: 'club.minnced', name: 'discord-webhooks', version: '0.1.6'
+        compile 'org.jetbrains:annotations:16.0.2'
+        compile 'com.google.code.gson:gson:2.8.6'
+        compile 'com.sedmelluq:lavaplayer:1.3.75'
+        compile fileTree(dir: "libs", include: "*.jar")
+    }
+
+}
