@@ -1,6 +1,0 @@
-
-[16/05/21 23:07:07][0;32m[API REST] Iniciando API
-[16/05/21 23:07:07][0;32m[START] Bot iniciado
-[16/05/21 23:07:07][0;32m[CommandGuild] Comando help registrado com sucesso -> Aliases: [ajuda]
-[16/05/21 23:07:07][0;32m[CommandGuild] Comando status registrado com sucesso -> Aliases: [ip, modpack, servers, server]
-[16/05/21 23:07:07][0;32m[CommandPrivate] Comando privado registrado com sucesso -> Aliases: [desativarmensagens, mpdisable]
